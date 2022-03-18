@@ -10,7 +10,7 @@
 
 ## Installation 
 - Install [lite-xl](https://github.com/lite-xl/lite-xl).
-- Put ```colors/everblush.lua``` in ```~/.config/lite-xl/colors/```.
+- Put ```colors/everblush.lua``` in ```$HOME/.config/lite-xl/colors/```.
 - Add the following to ```$HOME/.config/lite-xl/init.lua```.
 ```sh 
 core.reload_module("colors.everblush")
